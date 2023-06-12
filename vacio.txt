@@ -1,5 +1,5 @@
-Hola, me llamo Alejandro
-Tengo N años y tenog sueño
+Hola este es una archivo
 
-En camara es alto y es guapo
-Y si lo esta
+En este caso soy Alejandro
+
+Y este archivo es ejemplo para usar git
